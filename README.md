@@ -292,11 +292,11 @@ def result(request):
     return render(request, 'eventapp/result.html', context)
 ```
 ## OUTPUT:
-![output](./static/img/home.png)
-![output](./static/img/appli.png)
-![output](./static/img/list.png)
-![output](./static/img/done.png)
-![output](./static/img/fail.png)
+![output](./static/img/home1.png)
+![output](./static/img/appli1.png)
+![output](./static/img/list1.png)
+![output](./static/img/done1.png)
+![output](./static/img/fail1.png)
 
 ## RESULT:
 Thus, a UX design and develop a web application for event registration has been done.
